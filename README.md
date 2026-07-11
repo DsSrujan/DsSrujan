@@ -1,16 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm **Srujan DS**
+<img src="assets/banner.png" width="100%" alt="Banner">
 
-### AI • Machine Learning • Software Development • Problem Solving
+# 👋 Hi, I'm Srujan DS
 
-<img src="assets/banner.png" width="100%" alt="Banner"/>
-
-<br>
-
-<img src="assets/profile.gif" width="180"/>
-
-<br><br>
+### AI • Machine Learning • Software Development
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Software+Developer;Backend+Developer;Hackathon+Participant;Patent+Holder;Conference+Paper+Presenter;Always+Learning+Something+New"/>
 
@@ -18,22 +12,32 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.E. in Artificial Intelligence & Machine Learning
-- 🏫 Canara Engineering College
-- 💻 Passionate about AI, Machine Learning, Backend Development & Software Engineering
-- 🧠 Currently learning DSA, System Design, Backend Development & AI
-- 🏆 Patent Holder
-- 📄 Conference Paper Presenter
-- 🚀 Hackathon Participant
-- 🎯 Goal: Build intelligent software that creates real-world impact.
+🎓 B.E. in **Artificial Intelligence & Machine Learning** at **Canara Engineering College**
 
-<p align="center">
-<img src="assets/divider.png" width="100%">
-</p>
+💡 Passionate about building AI-powered applications that solve real-world problems.
 
-## 💻 Tech Stack
+🛠️ I enjoy working with Artificial Intelligence, Machine Learning, Backend Development, and Software Engineering.
+
+🌱 Currently improving my skills in:
+
+- Data Structures & Algorithms
+- Backend Development
+- System Design
+- Machine Learning
+
+🏆 Patent Holder
+
+📄 Conference Paper Presenter
+
+🚀 Hackathon Participant
+
+🎯 **Goal:** Build software that creates meaningful impact through AI and technology.
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -41,7 +45,9 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css"/>
 
-### Tools & Technologies
+<br><br>
+
+### Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,git,github,vscode,androidstudio"/>
 
@@ -49,26 +55,31 @@
 
 ---
 
-<p align="center">
-<img src="assets/divider.png" width="100%">
-</p>
+# 🚀 Featured Projects
 
-## 🚀 Featured Projects
+## 🛡️ AI Fraud Call Detection
 
-### 🛡️ AI Fraud Call Detection
-AI-powered Android application that detects fraudulent phone calls in real time.
+An AI-powered Android application that detects fraudulent phone calls in real time using live speech transcription and machine learning.
 
-**Tech:** Android Studio • Firebase • Node.js • Python • Azure Speech-to-Text • Machine Learning
+**Tech Stack**
 
-### 🌾 Smart Agriculture AI
-AI-based fertilizer recommendation and crop disease prediction using soil and weather data.
-
-### 💧 Water Potability Prediction
-Machine Learning model to predict water quality using data analysis and regression models.
+`Python` • `Node.js` • `Firebase` • `Android Studio` • `Azure Speech-to-Text`
 
 ---
 
-## 📈 GitHub Stats
+## 🌾 Smart Agriculture AI
+
+An intelligent recommendation system that analyzes soil nutrients and weather conditions to recommend fertilizers and assist in crop disease prediction.
+
+---
+
+## 💧 Water Potability Prediction
+
+A machine learning project that predicts water quality using data preprocessing, visualization, and regression models.
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
 
@@ -76,7 +87,13 @@ Machine Learning model to predict water quality using data analysis and regressi
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DsSrujan&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</div>
+
+---
+
+# 📊 Most Used Languages
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DsSrujan&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -84,18 +101,27 @@ Machine Learning model to predict water quality using data analysis and regressi
 
 ---
 
-## 🏆 Achievements
+# 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Backend Development
+- Database Design
+- System Design
+- Artificial Intelligence
+- Machine Learning
+
+---
+
+# 🏆 Achievements
 
 - 🏆 Patent Holder
 - 📄 Conference Paper Presenter
 - 🚀 Hackathon Participant
-- 💡 AI Project Builder
+- 💡 Passionate about building AI-powered real-world applications
 
-<p align="center">
-<img src="assets/wave.png" width="100%">
-</p>
+---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -103,13 +129,13 @@ Machine Learning model to predict water quality using data analysis and regressi
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/srujan-ds-76615b2a4">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/DsSrujan">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -121,10 +147,6 @@ Machine Learning model to predict water quality using data analysis and regressi
 
 <div align="center">
 
-> ### *"Code with curiosity. Build with purpose. Learn without limits."*
-
-<img src="https://komarev.com/ghpvc/?username=DsSrujan&style=for-the-badge&color=blue"/>
-
-⭐ Thanks for visiting my profile!
+### ⭐ *"Code with curiosity. Build with purpose. Learn without limits."*
 
 </div>
