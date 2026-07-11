@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Banner"/>
+<img src="assets/banner.png" width="100%" alt="Banner">
 
 # 👋 Hi, I'm **Srujan DS**
 
@@ -12,26 +12,34 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 B.E. in **Artificial Intelligence & Machine Learning** at **Canara Engineering College**
+🎓 **B.E. in Artificial Intelligence & Machine Learning**  
+🏫 Canara Engineering College
 
-💡 I enjoy building AI-powered applications that solve real-world problems.
+💡 Passionate about building AI-powered applications that solve real-world problems.
 
-💻 My interests include:
+🧠 My interests include:
 
-- Artificial Intelligence
-- Machine Learning
+- 🤖 Artificial Intelligence
+- 🧩 Machine Learning
+- ⚙️ Backend Development
+- 💻 Software Engineering
+
+🌱 Currently focused on:
+
+- Data Structures & Algorithms
 - Backend Development
-- Software Engineering
+- Machine Learning
+- System Design
 
-🌱 I'm currently focused on strengthening my skills in Data Structures & Algorithms while building practical AI projects.
-
-🏆 Patent Holder • 📄 Conference Paper Presenter • 🚀 Hackathon Participant
+🏆 Patent Holder  
+📄 Conference Paper Presenter  
+🚀 Hackathon Participant
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -55,21 +63,21 @@ Python • Pandas • NumPy • Scikit-Learn • Matplotlib
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🧠 Solving LeetCode Problems
+- 🚀 Building AI Projects
 - ⚙️ Backend Development
-- 🤖 Machine Learning Projects
-- ☁️ Cloud & System Design
-- 🚀 Open Source Contributions
+- ☁️ Learning Cloud Technologies
+- 📚 Preparing for Software Engineering Internships
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DsSrujan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DsSrujan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=DsSrujan&theme=tokyonight&hide_border=true"/>
 
@@ -79,13 +87,26 @@ Python • Pandas • NumPy • Scikit-Learn • Matplotlib
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DsSrujan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DsSrujan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 📌 Featured Projects
+
+### 🛡️ AI Fraud Call Detection
+AI-powered Android application that detects fraudulent phone calls in real time using speech recognition and machine learning.
+
+### 🌾 Smart Agriculture AI
+An intelligent recommendation system for fertilizer suggestions and crop disease prediction using soil and weather analysis.
+
+### 💧 Water Potability Prediction
+A machine learning model that predicts water quality using data preprocessing and regression techniques.
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -104,5 +125,13 @@ Python • Pandas • NumPy • Scikit-Learn • Matplotlib
 <a href="https://github.com/DsSrujan">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"Code with curiosity. Build with purpose. Learn without limits."*
 
 </div>
