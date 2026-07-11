@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Banner">
+<img src="assets/banner.png" width="100%" alt="Banner"/>
 
-# 👋 Hi, I'm Srujan DS
+# 👋 Hi, I'm **Srujan DS**
 
 ### AI • Machine Learning • Software Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Software+Developer;Backend+Developer;Hackathon+Participant;Patent+Holder;Conference+Paper+Presenter;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Software+Developer;Backend+Developer;Building+Real+World+Projects"/>
 
 </div>
 
@@ -16,24 +16,18 @@
 
 🎓 B.E. in **Artificial Intelligence & Machine Learning** at **Canara Engineering College**
 
-💡 Passionate about building AI-powered applications that solve real-world problems.
+💡 I enjoy building AI-powered applications that solve real-world problems.
 
-🛠️ I enjoy working with Artificial Intelligence, Machine Learning, Backend Development, and Software Engineering.
+💻 My interests include:
 
-🌱 Currently improving my skills in:
-
-- Data Structures & Algorithms
-- Backend Development
-- System Design
+- Artificial Intelligence
 - Machine Learning
+- Backend Development
+- Software Engineering
 
-🏆 Patent Holder
+🌱 I'm currently focused on strengthening my skills in Data Structures & Algorithms while building practical AI projects.
 
-📄 Conference Paper Presenter
-
-🚀 Hackathon Participant
-
-🎯 **Goal:** Build software that creates meaningful impact through AI and technology.
+🏆 Patent Holder • 📄 Conference Paper Presenter • 🚀 Hackathon Participant
 
 ---
 
@@ -47,81 +41,51 @@
 
 <br><br>
 
-### Technologies & Tools
+### Frameworks & Tools
 
 <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,git,github,vscode,androidstudio"/>
+
+<br><br>
+
+### AI / ML
+
+Python • Pandas • NumPy • Scikit-Learn • Matplotlib
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 Current Focus
 
-## 🛡️ AI Fraud Call Detection
-
-An AI-powered Android application that detects fraudulent phone calls in real time using live speech transcription and machine learning.
-
-**Tech Stack**
-
-`Python` • `Node.js` • `Firebase` • `Android Studio` • `Azure Speech-to-Text`
+- 🧠 Solving LeetCode Problems
+- ⚙️ Backend Development
+- 🤖 Machine Learning Projects
+- ☁️ Cloud & System Design
+- 🚀 Open Source Contributions
 
 ---
 
-## 🌾 Smart Agriculture AI
-
-An intelligent recommendation system that analyzes soil nutrients and weather conditions to recommend fertilizers and assist in crop disease prediction.
-
----
-
-## 💧 Water Potability Prediction
-
-A machine learning project that predicts water quality using data preprocessing, visualization, and regression models.
-
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DsSrujan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DsSrujan&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=DsSrujan&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 📊 Most Used Languages
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DsSrujan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DsSrujan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- Backend Development
-- Database Design
-- System Design
-- Artificial Intelligence
-- Machine Learning
-
----
-
-# 🏆 Achievements
-
-- 🏆 Patent Holder
-- 📄 Conference Paper Presenter
-- 🚀 Hackathon Participant
-- 💡 Passionate about building AI-powered real-world applications
-
----
-
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -140,13 +104,5 @@ A machine learning project that predicts water quality using data preprocessing,
 <a href="https://github.com/DsSrujan">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ *"Code with curiosity. Build with purpose. Learn without limits."*
 
 </div>
