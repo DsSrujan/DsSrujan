@@ -4,8 +4,9 @@
 <td valign="top">
 <img src="./srujan-ascii-balanced.svg" width="370" alt="Animated ASCII Astronaut"/>
 </td>
+
 <td valign="top">
-<img src="./info-card.svg" width="490" alt="Terminal Info Card"/>
+<img src="./srujan-info-card.svg" width="490" alt="Srujan D S Developer Info Card"/>
 </td>
 </tr>
 </table>
