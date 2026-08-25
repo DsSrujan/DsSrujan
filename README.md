@@ -296,19 +296,19 @@ API-oriented architecture
 
 </div>
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">🐍 Contribution Activity</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DsSrujan&theme=tokyo-night&hide_border=true&area=true" alt="Srujan's GitHub Contribution Activity"/>
-
-</div>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DsSrujan&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Srujan's GitHub Trophies"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/DsSrujan/DsSrujan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/DsSrujan/DsSrujan/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/DsSrujan/DsSrujan/output/github-contribution-grid-snake.svg"
+       width="980"
+       alt="Animated GitHub Contribution Snake"/>
+</picture>
 
 </div>
 
