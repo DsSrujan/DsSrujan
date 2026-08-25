@@ -318,7 +318,7 @@ API-oriented architecture
 
 I'm actively looking for AI/ML and Full-Stack opportunities.
 
-<a href="https://linkedin.com/in/DsSrujan">
+<a href="www.linkedin.com/in/srujands21">
 <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
