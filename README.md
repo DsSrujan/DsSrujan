@@ -15,7 +15,7 @@
 
 <h3>AI/ML Engineer • Full-Stack Developer • Agentic Systems</h3>
 
-<a href="https://linkedin.com/in/DsSrujan">
+<a href="www.linkedin.com/in/srujands21">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
