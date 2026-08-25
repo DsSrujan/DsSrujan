@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td valign="top">
-<img src="./ascii-v2.svg" width="370" alt="Animated ASCII Portrait"/>
+<img src="./ascii-v3.svg" width="370" alt="Animated ASCII Portrait"/>
 </td>
 <td valign="top">
 <img src="./info-card.svg" width="490" alt="Terminal Info Card"/>
